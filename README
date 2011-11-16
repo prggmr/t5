@@ -1,0 +1,12 @@
+t5 is a high-performance library for developing web applications where 
+performance and speed is mission critical.
+
+t5 uses a pure event driven architecture, running in an event loop for
+250ms before exiting, regardless of what has or hasn't happened.
+
+t5 has a single entry and exit point, and uses only a single function for
+it's entire API.
+
+t5 is meant to be used for small to large size websites that demand a lighting
+fast application which uses very little memory and is highly extensible and
+completely decoupled.
