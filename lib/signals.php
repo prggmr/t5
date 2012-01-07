@@ -2,7 +2,7 @@
 namespace t5;
 
 /**
- *  Copyright 2010-11 Nickolas Whiting
+ *  Copyright 2010-12 Nickolas Whiting
  *
  *  Licensed under the Apache License, Version 2.0 (the "License");
  *  you may not use this file except in compliance with the License.
@@ -19,7 +19,7 @@ namespace t5;
  *
  * @author  Nickolas Whiting  <prggmr@gmail.com>
  * @package  t5
- * @copyright  Copyright (c), 2010-11 Nickolas Whiting
+ * @copyright  Copyright (c), 2010-12 Nickolas Whiting
  */
 
 /**
